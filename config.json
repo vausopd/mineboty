@@ -1,15 +1,15 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
+    "ip": "ppan.aternos.me:12634",
+    "port": "12634",
+    "name": "lutbot",
     "password": "",
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
+    "register-cmd": "false",
+    "login-cmd": "false",
+    "loginmsg": "false",
     "auto-reconnect": "true",
-    "web": "true"
-    
-}
+    "web": "false"
+   
+} 
